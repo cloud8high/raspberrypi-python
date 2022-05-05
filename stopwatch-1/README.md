@@ -3,7 +3,10 @@
 ## 概要
 シンプルなストップウオッチ  
 ラズパイGPIOの学習目的で作成  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MvnmTSKoJnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+以下画像クリックでYouTubeへ遷移  
+<img src="https://user-images.githubusercontent.com/40209684/166886368-3ee59700-0af3-4a0b-b3d2-76e31ee05902.png", width="450">  
+![動作イメージ](https://user-images.githubusercontent.com/40209684/166886368-3ee59700-0af3-4a0b-b3d2-76e31ee05902.png)
+
 
 ## 回路図・配線図
 ![回路図](https://github.com/cloud8high/raspberrypi-python/blob/main/stopwatch-1/diagram/diagram-circuit.PNG?raw=true)
